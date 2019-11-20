@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "D:\\Users\\ikordis\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\Users\\ikordis\\.nuget\\packages"
+    ]
+  }
+}
